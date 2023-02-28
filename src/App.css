@@ -1,0 +1,29 @@
+.App{
+    text-align: center;
+    background-color:black;
+}
+body{
+    background-color:whitesmoke;
+}
+
+.insta{
+position:absolute;
+margin-top: 2em;
+margin-left: 3em;
+font-size: 2em;
+color:black;
+}
+.twitter{
+    position:absolute;
+    margin-top: 2em;
+    margin-left: 5em;
+    font-size: 2em;
+    color:black;
+}
+.git{
+    position:absolute;
+    margin-top: 2em;
+    margin-left: 7em;
+    font-size: 2em;
+    color:black;
+}
